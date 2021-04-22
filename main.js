@@ -1,7 +1,7 @@
 const divContainer = document.querySelector(".container");
 const btnAgregar = document.querySelector(".boton-agregar");
 const inputAgregar = document.querySelector(".input");
-
+//prueba
 
 class Item {
     constructor(tarea) {
